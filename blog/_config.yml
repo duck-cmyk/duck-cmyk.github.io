@@ -1,0 +1,26 @@
+title:              DUCK_CMKY
+email:              cmkyduck1ove@naver.com
+description:        hello, world!
+author:             duck_cmky
+baseurl:            "/blog"
+url:                "https://duck-cmyk.github.io"
+
+# Social Profiles
+twitter_username:
+github_username:    duck-cmyk
+facebook_username:
+instagram_username:
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+theme: jekyll-theme-clean-blog
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
