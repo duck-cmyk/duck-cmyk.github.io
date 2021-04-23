@@ -2,7 +2,7 @@ title:              DUCK_CMKY
 email:              cmkyduck1ove@naver.com
 description:        hello, world!
 author:             duck_cmky
-baseurl:            "/blog"
+baseurl:          
 url:                "https://duck-cmyk.github.io"
 
 # Social Profiles
